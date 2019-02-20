@@ -53,14 +53,3 @@ footer{
   border-radius: 10px;
   box-shadow: 5px 5px 10px -3px grey;
 }
-
-.menu_link{
-  overflow: hidden;
-}
-
-.menu_link li{
-  display: inline-block;
-}
-
-.menu_link a{
-}
